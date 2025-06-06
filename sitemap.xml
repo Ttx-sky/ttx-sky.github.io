@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://ttx-sky.github.io/categories/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttx-sky.github.io/tags/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ttx-sky.github.io/about/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
@@ -43,5 +61,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://ttx-sky.github.io/categories/hexo/</loc>
+    <lastmod>2025-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

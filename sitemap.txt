@@ -1,5 +1,8 @@
 https://ttx-sky.github.io/2025/06/06/hexo%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/
+https://ttx-sky.github.io/categories/index.html
+https://ttx-sky.github.io/tags/index.html
 https://ttx-sky.github.io/about/index.html
 https://ttx-sky.github.io/
 https://ttx-sky.github.io/tags/hexo/
 https://ttx-sky.github.io/tags/hexo-error/
+https://ttx-sky.github.io/categories/hexo/
