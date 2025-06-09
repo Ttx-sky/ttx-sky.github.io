@@ -38,6 +38,13 @@
 
   
   <url>
+    <loc>https://ttx-sky.top/tags/%E9%80%9A%E7%9F%A5/</loc>
+    <lastmod>2025-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ttx-sky.top/tags/hexo/</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,24 +58,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://ttx-sky.top/tags/%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2025-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://ttx-sky.top/categories/hexo/</loc>
+    <loc>https://ttx-sky.top/categories/%E7%AB%99%E5%86%85%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ttx-sky.top/categories/%E7%AB%99%E5%86%85%E6%B4%BB%E5%8A%A8/</loc>
+    <loc>https://ttx-sky.top/categories/hexo/</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
