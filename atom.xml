@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>CodeBlog</title>
   
-  
+  <subtitle>A person blog</subtitle>
   <link href="https://ttx-sky.github.io/atom.xml" rel="self"/>
   
   <link href="https://ttx-sky.github.io/"/>
-  <updated>2025-06-06T06:54:57.738Z</updated>
+  <updated>2025-06-09T02:34:34.772Z</updated>
   <id>https://ttx-sky.github.io/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodingBlog正式驻站ttx-sky.top</title>
+    <link href="https://ttx-sky.github.io/2025/06/09/CodingBlog%E6%AD%A3%E5%BC%8F%E9%A9%BB%E7%AB%99ttx-sky-top/"/>
+    <id>https://ttx-sky.github.io/2025/06/09/CodingBlog%E6%AD%A3%E5%BC%8F%E9%A9%BB%E7%AB%99ttx-sky-top/</id>
+    <published>2025-06-09T02:29:18.000Z</published>
+    <updated>2025-06-09T02:34:34.772Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="CodingBlog正式驻站ttx-sky-top"><a href="#CodingBlog正式驻站ttx-sky-top" class="headerlink" title="CodingBlog正式驻站ttx-sky.top"></a>CodingBlog正式驻站ttx-sky.top</h1><h2 id="今天，我的个人博客网站CodingBlog正式在ttx-sky-top上线，以后可直接通过ttx-sky-top访问此网站，而不仅仅是ttx-sky-github-io"><a href="#今天，我的个人博客网站CodingBlog正式在ttx-sky-top上线，以后可直接通过ttx-sky-top访问此网站，而不仅仅是ttx-sky-github-io" class="headerlink" title="今天，我的个人博客网站CodingBlog正式在ttx-sky.top上线，以后可直接通过ttx-sky.top访问此网站，而不仅仅是ttx-sky.github.io"></a>今天，我的个人博客网站CodingBlog正式在ttx-sky.top上线，以后可直接通过<a href="/C:/Users/qweas/AppData/Local/Programs/Joplin/resources/app.asar/ttx-sky.top">ttx-sky.top</a>访问此网站，而不仅仅是<a href="/C:/Users/qweas/AppData/Local/Programs/Joplin/resources/app.asar/ttx-sky.github.io">ttx-sky.github.io</a></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;CodingBlog正式驻站ttx-sky-top&quot;&gt;&lt;a href=&quot;#CodingBlog正式驻站ttx-sky-top&quot; class=&quot;headerlink&quot; title=&quot;CodingBlog正式驻站ttx-sky.top&quot;&gt;&lt;/a&gt;CodingBlog正</summary>
+      
+    
+    
+    
+    <category term="站内活动" scheme="https://ttx-sky.github.io/categories/%E7%AB%99%E5%86%85%E6%B4%BB%E5%8A%A8/"/>
+    
+    
+    <category term="通知" scheme="https://ttx-sky.github.io/tags/%E9%80%9A%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo/hexo报错解决方案</title>
+    <link href="https://ttx-sky.github.io/2025/06/08/hexo-hexo%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>https://ttx-sky.github.io/2025/06/08/hexo-hexo%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2025-06-08T13:52:50.000Z</published>
+    <updated>2025-06-08T13:52:50.797Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo报错解决方案</title>
