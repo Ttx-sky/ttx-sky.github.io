@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ttx-sky.top/archives/index.html</loc>
+    
+    <lastmod>2025-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttx-sky.top/categories/index.html</loc>
+    
+    <lastmod>2025-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttx-sky.top/tags/index.html</loc>
+    
+    <lastmod>2025-07-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ttx-sky.top/2025/07/13/CodeTools/</loc>
     
     <lastmod>2025-07-13</lastmod>
@@ -65,13 +92,6 @@
 
   
   <url>
-    <loc>https://ttx-sky.top/tags/%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2025-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ttx-sky.top/tags/Tools/</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -99,14 +119,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://ttx-sky.top/categories/%E7%AB%99%E5%86%85%E6%B4%BB%E5%8A%A8/</loc>
+    <loc>https://ttx-sky.top/tags/%E9%80%9A%E7%9F%A5/</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://ttx-sky.top/categories/Tools/</loc>
@@ -117,6 +137,13 @@
   
   <url>
     <loc>https://ttx-sky.top/categories/hexo/</loc>
+    <lastmod>2025-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ttx-sky.top/categories/%E7%AB%99%E5%86%85%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2025-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
