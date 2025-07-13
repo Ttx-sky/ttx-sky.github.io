@@ -6,7 +6,7 @@
   <link href="https://ttx-sky.top/atom.xml" rel="self"/>
   
   <link href="https://ttx-sky.top/"/>
-  <updated>2025-06-09T10:50:38.592Z</updated>
+  <updated>2025-07-13T05:37:29.143Z</updated>
   <id>https://ttx-sky.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CodeTools</title>
+    <link href="https://ttx-sky.top/2025/07/13/CodeTools/"/>
+    <id>https://ttx-sky.top/2025/07/13/CodeTools/</id>
+    <published>2025-07-13T05:15:23.000Z</published>
+    <updated>2025-07-13T05:37:29.143Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写代码的好帮手"><a href="#写代码的好帮手" class="headerlink" title="写代码的好帮手"></a>写代码的好帮手</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="emsp-到今天，作者已经学习编程四年有余，那么我认为写代码的最好帮手是什么？"><a href="#emsp-到今天，作者已经学习编程四年有余，那么我认为写代码的最好帮手是什么？" class="headerlink" title="&emsp;到今天，作者已经学习编程四年有余，那么我认为写代码的最好帮手是什么？"></a>&emsp;到今天，作者已经学习编程四年有余，那么我认为写代码的最好帮手是什么？</h3><h3 id="emsp-这就是我今天所要讲的内容。"><a href="#emsp-这就是我今天所要讲的内容。" class="headerlink" title="&emsp;这就是我今天所要讲的内容。"></a>&emsp;这就是我今天所要讲的内容。</h3><h2 id="Top1"><a href="#Top1" class="headerlink" title="Top1"></a>Top1</h2><h3 id="emsp-Pycharm"><a href="#emsp-Pycharm" class="headerlink" title="&emsp;Pycharm"></a>&emsp;<a href="https://www.jetbrains.com/zh-cn/pycharm/">Pycharm</a></h3><h3 id="emsp-不得不说，对于想要学习python的新手来说，pycharm是一个不错的工具，它作为JetBrains的优秀产品，集成了代码补全、mysql数据库等实用功能，可以说是非常强大，并且专业版还有一个月的免费试用"><a href="#emsp-不得不说，对于想要学习python的新手来说，pycharm是一个不错的工具，它作为JetBrains的优秀产品，集成了代码补全、mysql数据库等实用功能，可以说是非常强大，并且专业版还有一个月的免费试用" class="headerlink" title="&emsp;不得不说，对于想要学习python的新手来说，pycharm是一个不错的工具，它作为JetBrains的优秀产品，集成了代码补全、mysql数据库等实用功能，可以说是非常强大，并且专业版还有一个月的免费试用"></a>&emsp;不得不说，对于想要学习python的新手来说，pycharm是一个不错的工具，它作为<a href="https://www.jetbrains.com/zh-cn/">JetBrains</a>的优秀产品，集成了代码补全、mysql数据库等实用功能，可以说是非常强大，并且专业版还有一个月的免费试用</h3><h2 id="Top2"><a href="#Top2" class="headerlink" title="Top2"></a>Top2</h2><h3 id="emsp-VSCode"><a href="#emsp-VSCode" class="headerlink" title="&emsp;VSCode"></a>&emsp;<a href="https://code.visualstudio.com/">VSCode</a></h3><h3 id="emsp-VsCode具有丰富的插件，在原有的功能下可以有更多的拓展，创造出了更多可能，并且其支持多种的语言编写，适合需要多个语言频繁切换的人使用。"><a href="#emsp-VsCode具有丰富的插件，在原有的功能下可以有更多的拓展，创造出了更多可能，并且其支持多种的语言编写，适合需要多个语言频繁切换的人使用。" class="headerlink" title="&emsp;VsCode具有丰富的插件，在原有的功能下可以有更多的拓展，创造出了更多可能，并且其支持多种的语言编写，适合需要多个语言频繁切换的人使用。"></a>&emsp;VsCode具有丰富的插件，在原有的功能下可以有更多的拓展，创造出了更多可能，并且其支持多种的语言编写，适合需要多个语言频繁切换的人使用。</h3><h2 id="Top-3"><a href="#Top-3" class="headerlink" title="Top 3"></a>Top 3</h2><h3 id="emsp-IDEA"><a href="#emsp-IDEA" class="headerlink" title="&emsp;IDEA"></a>&emsp;<a href="https://www.jetbrains.com/idea/">IDEA</a></h3><h3 id="emsp-IntelliJ-IDEA-使用工具帮助您更快地编写代码，这些工具可以消除繁琐的任务，让您专注于重要的事情-构建出色的软件。"><a href="#emsp-IntelliJ-IDEA-使用工具帮助您更快地编写代码，这些工具可以消除繁琐的任务，让您专注于重要的事情-构建出色的软件。" class="headerlink" title="&emsp;IntelliJ IDEA 使用工具帮助您更快地编写代码，这些工具可以消除繁琐的任务，让您专注于重要的事情 - 构建出色的软件。"></a>&emsp;IntelliJ IDEA 使用工具帮助您更快地编写代码，这些工具可以消除繁琐的任务，让您专注于重要的事情 - 构建出色的软件。</h3><h3 id="emsp-获取编写高质量代码、最大限度地减少错误和减少技术债务所需的一切，以便您可以将更多时间花在创新而不是故障排除上。"><a href="#emsp-获取编写高质量代码、最大限度地减少错误和减少技术债务所需的一切，以便您可以将更多时间花在创新而不是故障排除上。" class="headerlink" title="&emsp;获取编写高质量代码、最大限度地减少错误和减少技术债务所需的一切，以便您可以将更多时间花在创新而不是故障排除上。"></a>&emsp;获取编写高质量代码、最大限度地减少错误和减少技术债务所需的一切，以便您可以将更多时间花在创新而不是故障排除上。</h3><h3 id="emsp-它专为极致舒适而设计，提供流畅、愉快的工作流程，帮助您保持流畅。"><a href="#emsp-它专为极致舒适而设计，提供流畅、愉快的工作流程，帮助您保持流畅。" class="headerlink" title="&emsp;它专为极致舒适而设计，提供流畅、愉快的工作流程，帮助您保持流畅。"></a>&emsp;它专为极致舒适而设计，提供流畅、愉快的工作流程，帮助您保持流畅。</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;写代码的好帮手&quot;&gt;&lt;a href=&quot;#写代码的好帮手&quot; class=&quot;headerlink&quot; title=&quot;写代码的好帮手&quot;&gt;&lt;/a&gt;写代码的好帮手&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前</summary>
+      
+    
+    
+    
+    <category term="Tools" scheme="https://ttx-sky.top/categories/Tools/"/>
+    
+    
+    <category term="Tools" scheme="https://ttx-sky.top/tags/Tools/"/>
+    
+    <category term="Code" scheme="https://ttx-sky.top/tags/Code/"/>
+    
+  </entry>
   
   <entry>
     <title>任意门</title>
